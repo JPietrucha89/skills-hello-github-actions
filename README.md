@@ -1,3 +1,5 @@
+![StandingOvationGIF](https://github.com/JPietrucha89/skills-hello-github-actions/assets/98188400/02e122b2-d3bc-4347-b56c-40bd4b77252e)
+
 <header>
 
 <!--
